@@ -1,0 +1,30 @@
+- **씬 1: 문제 제시 (Intro)**
+• **씬 길이**: 10초  
+• **목표 메시지**: 쏟아지는 코드와 복잡한 시스템 속에서 갈피를 못 잡는 개발자의 고뇌  
+• **화면 구성**: 어두운 방, 듀얼 모니터에 가득 찬 복잡한 코드들, 멍하니 화면을 보는 인물의 뒷모습  
+• **내레이션**: "끝없는 데이터의 미로, 해결되지 않는 병목 현상. 한계에 다다른 시스템 앞에서, 당신의 밤은 매번 길어지기만 합니다.” 
+• **사용 도구**: https://deevid.ai   GPT - SoVIST v2
+• **입력 프롬프트**: "cinematic shot, developer sitting in front of 3 monitors, messy code everywhere, dark room, blue monitor light, high detail"
+- **씬 2: 해결 (Solution)**
+• **씬 길이**: 8초  
+• **목표 메시지**: DevFlow가 코드를 깔끔하게 정돈하고 최적화 경로를 제시함  
+• **화면 구성**: 화면에 'DevFlow AI' 로고가 뜨면서 복잡한 코드들이 정렬되는 모습  
+• **내레이션**: "이제, 흐름을 바꿀 시간입니다. DevFlow가 복잡한 연산을 정교하게 재설계합니다. 낭비되던 자원은 사라지고, 시스템은 비로소 간결한 질서를 찾게 됩니다.”  
+• **사용 도구**: https://deevid.ai   GPT - SoVIST v2
+• **입력 프롬프트**: “Cinematic wide shot, 'DevFlow' logo centered in a dark, high-tech interface, glowing data streams slowly spiraling and orbiting around the logo with graceful motion, smooth depth of field, subtle light pulses, 4k resolution, clean and steady camera work"
+- **씬 3: 결과 (Benefit)**
+• **씬 길이**: 6초  
+• **목표 메시지**: 최적화된 시스템으로 빠르게 작업이 끝난 모습  
+• **화면 구성**: 작업이 완벽하게 끝난 모니터 화면, 만족스러운 듯 커피를 한 잔 마시는 인물  
+• **내레이션**:"작업 끝에 마주한 평온한 아침. 창가로 비치는 햇살처럼, 최적화가 완성된 당신의 작업 환경도 막힘없이 흐릅니다. 노력이 만들어낸 기술적 완벽함, 그리고 비로소 찾아온 일상의 여유.” 
+• **사용 도구**: https://deevid.ai   GPT - SoVIST v2
+• **입력 프롬프트**: "
+happy developer drinking coffee, clean desk, sleek workspace, sunrise light coming through window, **subtle dust particles dancing in the light, steaming coffee cup, soft sunlight rays moving, high quality, cinematic lighting**"
+- **씬 4: 브랜드 인지 (Outro)**  
+• **씬 길이**: 6초  
+• **목표 메시지**: DevFlow 브랜드 강조  
+• **화면 구성**: 깔끔한 로고와 슬로건 노출
+    
+    사용 도구 : https://deevid.ai   GPT - SoVIST v2
+    • **내레이션**: "당신의 코드, 그 이상의 흐름. DevFlow."  
+    • **입력 프롬프트**: "minimalist neon glowing logo 'DevFlow' centered, sleek deep black background with subtle data-stream circuit patterns fading into the darkness, elegant cinematic lighting, sharp edges, high-tech aesthetic, consistent with digital optimization theme, 8k resolution"
