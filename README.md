@@ -1,5 +1,7 @@
 # CodysseyMission2
 
+Result : https://youtu.be/2jNqdw9K3mg
+
 - **씬 1: 문제 제시 (Intro)**
 • **씬 길이**: 10초  
 • **목표 메시지**: 쏟아지는 코드와 복잡한 시스템 속에서 갈피를 못 잡는 개발자의 고뇌  
